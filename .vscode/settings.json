@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Rohit\\Anaconda3\\envs\\v-env\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+}
